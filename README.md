@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kinshuk Dewari</h1>
-<img src="assets\animation.gif" width="200" height="150" />
+<p align="center"><img src="assets\animation.gif" width="200" height="150" /></p>
 <h3 align="center">An Engineering Student from <b>India</b>.</h3>
 
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=KINSHUK69&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK69" /> </p>-->
 
-- 🌱 I’m pursuing *B.Tech in CSE (currenty in 4 th year) from,<br><pre> GRAPHIC ERA HILL UNIVERSITY, Dehradun, Uttarakhand.*</pre>
+- 🌱 I’m a **Final year** *B.Tech CSE from,<br><pre> GRAPHIC ERA HILL UNIVERSITY, Dehradun, Uttarakhand.*</pre>
 
-- 💬 Ask me about  **`C` , `C++` , `Python`**.
+- 💬 Ask me about  **`  C  ` , ` C++ ` , ` Python `**.
 
 - 📫 How to reach me *kinshukdewariwastaken@gmail.com*
 
