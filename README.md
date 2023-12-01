@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <h3>My Socials :</h3> 
 
 <p align="left"> 
-  <a href="https://leetcode.com/kinshukdewari0069/" target="_blank" rel="noreferrer" >
+  <a href="https://leetcode.com/kinshuk-dewari/" target="_blank" rel="noreferrer" >
     <img src="assets\leetcode.png" width="32" height="32" />
   </a>
   <a href="http://www.instagram.com/kinshuk_dewari/" target="_blank" rel="noreferrer">
