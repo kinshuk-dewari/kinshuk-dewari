@@ -1,6 +1,13 @@
+  
 ### Hi there 👋
+<div style="display:flex ; flex-direction: column;">
+  <br>
+  <img align='left' src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
+  <!--![Loading animation](https://github.com/kinshuk-dewari/kinshuk-dewari/assets/71977053/b4b312d7-5ad1-4674-b45a-18fd324dc8b1)
+  ![47265d2ba28c591bb6c352ff305d4933](https://github.com/kinshuk-dewari/kinshuk-dewari/assets/71977053/7649da49-2a55-4ef5-8128-fb8601bc2dd9)
+  
+</div>
 
-<!--
 **kinshuk-dewari/kinshuk-dewari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
