@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kinshuk Dewari</h1>
+<img src="assets\animation.gif" width="200" height="150" />
 <h3 align="center">An Engineering Student from <b>India</b>.</h3>
 
 
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
 <h3>My Socials :</h3> 
 
 <p align="left"> 
-<!--   <a href="https://leetcode.com/kinshukdewari0069/" target="_blank" rel="noreferrer"><img src="image\LeetCode_Logo_1.png" width="32" height="32" /></a> -->
+<a href="https://leetcode.com/kinshukdewari0069/" target="_blank" rel="noreferrer"><img src="image\LeetCode_Logo_1.png" width="32" height="32" /></a>
 <a href="http://www.instagram.com/kinshuk_dewari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/kinshuk-dewari/" target= "_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
