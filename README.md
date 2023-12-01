@@ -1,7 +1,5 @@
-  
-  <!--![Loading animation](https://github.com/kinshuk-dewari/kinshuk-dewari/assets/71977053/b4b312d7-5ad1-4674-b45a-18fd324dc8b1)
-  ![47265d2ba28c591bb6c352ff305d4933](https://github.com/kinshuk-dewari/kinshuk-dewari/assets/71977053/7649da49-2a55-4ef5-8128-fb8601bc2dd9)  
 
+<!--
 
 **kinshuk-dewari/kinshuk-dewari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=KINSHUK69&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK69" /> </p>-->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kinshuk-dewari&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK" /> </p>
 
 - 🌱 I’m a **Final year** *B.Tech CSE from,<br><pre> GRAPHIC ERA HILL UNIVERSITY, Dehradun, Uttarakhand.*</pre>
 
