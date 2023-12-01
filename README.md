@@ -54,9 +54,16 @@ Here are some ideas to get you started:
 <h3>My Socials :</h3> 
 
 <p align="left"> 
-<a href="https://leetcode.com/kinshukdewari0069/" target="_blank" rel="noreferrer"><img src="image\leetcode.png" width="32" height="32" /></a>
-<a href="http://www.instagram.com/kinshuk_dewari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/kinshuk-dewari/" target= "_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+  <a href="https://leetcode.com/kinshukdewari0069/" target="_blank" rel="noreferrer" >
+    <img src="assets\leetcode.png" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/kinshuk_dewari/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.linkedin.com/in/kinshuk-dewari/" target= "_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
 
 <br>
 <h3>My Github Stats :</h3>
