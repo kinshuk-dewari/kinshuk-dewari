@@ -1,25 +1,97 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Kinshuk Dewari</h1>
-<p align="center"><img src="assets\animation.gif" width="200" height="150" /></p>
-<h3 align="center">A Software Dev. from <b>India</b>.</h3>
+<h3 align="center">Full-Stack Software Engineer | Building scalable apps & AI agent systems</h3>
 
+<p align="center">
+Full-stack engineer experienced in building scalable, high-performance applications and microservices with React.js, Next.js, Node.js, TypeScript, and PostgreSQL. Currently designing autonomous multi-agent AI systems with LLM orchestration, job queues (BullMQ/Redis), and Docker-based sandboxed execution.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kinshuk-dewari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kinshuk-dewari.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/kinshuk-dewari" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/kinshuk-dewari/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:kinshukdewariwastaken@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kinshuk-dewari&label=Profile%20views&color=0e75b6&style=flat" alt="KINSHUK" /> </p>
+---
 
--  my website : https://kinshuk-dewari.netlify.app/ 
+### 🛠️ Tech Stack
 
-- other way of reaching me *kinshukdewariwastaken@gmail.com*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,express,nodejs,tailwind,aws&perline=10" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,redis,git,github,postman,docker&perline=10" />
+</p>
 
+<table align="center">
+  <tr>
+    <td valign="top">
+      <b>Languages</b><br/>
+      C++ • Python • JavaScript • TypeScript
+    </td>
+    <td valign="top">
+      <b>AI &amp; ML</b><br/>
+      LLMs • RAG • Agent Orchestration • LangGraph
+    </td>
+    <td valign="top">
+      <b>Development</b><br/>
+      Next.js • React.js • Express.js • Node.js • Tailwind CSS • AWS
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Database</b><br/>
+      MongoDB • MySQL • PostgreSQL • Prisma • Redis
+    </td>
+    <td valign="top">
+      <b>Tools &amp; DevOps</b><br/>
+      Git &amp; GitHub • Postman • Docker • CI/CD
+    </td>
+    <td valign="top">
+      <b>Systems</b><br/>
+      REST APIs • WebSockets • OAuth • JWT/RBAC
+    </td>
+  </tr>
+</table>
 
-<h3>My Github Stats :</h3>
+---
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinshuk-dewari&show_icons=true&theme=tokyonight&locale=en" alt="kinshuk-dewari" /></p> -->
+### 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk-dewari&exclude_repo=c-oops-lab&layout=compact&theme=tokyonight&show_icons=true" alt="kinshuk-dewari" /></p>
-<p><a href="http://www.github.com/kinshuk-dewari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kinshuk-dewari&theme=tokyonight&locale=en" /></a></p>
+#### [Agent X](https://github.com/kinshuk-dewari/agent_orchestrator)
+`Turborepo` `LLM` `Next.js` `Prisma` `WebSockets` `BullMQ/Redis` `Docker`
+A multi-agent autonomous system with a central orchestrator delegating tasks across specialized Search, Write, Review, and GitHub agents. Built on a production-grade BullMQ/Redis job queue and state machine, with Docker-based sandboxed execution (via dockerode) for safely running agent-generated code, plus real-time task streaming via Socket.io.
 
+#### [My Wallet](https://github.com/kinshuk-dewari/My-Wallet)
+`Turborepo` `Next.js` `PostgreSQL` `Prisma` `Recoil`
+A secure, scalable e-wallet web application with JWT authentication and bcrypt-encrypted transactions. Includes a merchant dashboard for generating monthly/annual financial reports, improving transaction analysis efficiency by 75%.
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kinshuk-dewari&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk-dewari&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinshuk-dewari&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>💬 Reach out via <a href="mailto:kinshukdewariwastaken@gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/kinshuk-dewari">LinkedIn</a>!</i>
+</p>
