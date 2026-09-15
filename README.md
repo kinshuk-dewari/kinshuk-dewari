@@ -25,7 +25,7 @@ Full-stack engineer experienced in building scalable, high-performance applicati
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,express,nodejs,tailwind,aws&perline=10" />
@@ -67,7 +67,7 @@ Full-stack engineer experienced in building scalable, high-performance applicati
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### [Agent X](https://github.com/kinshuk-dewari/agent_orchestrator)
 `Turborepo` `LLM` `Next.js` `Prisma` `WebSockets` `BullMQ/Redis` `Docker`
@@ -77,21 +77,3 @@ A multi-agent autonomous system with a central orchestrator delegating tasks acr
 `Turborepo` `Next.js` `PostgreSQL` `Prisma` `Recoil`
 A secure, scalable e-wallet web application with JWT authentication and bcrypt-encrypted transactions. Includes a merchant dashboard for generating monthly/annual financial reports, improving transaction analysis efficiency by 75%.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kinshuk-dewari&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshuk-dewari&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinshuk-dewari&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>💬 Reach out via <a href="mailto:kinshukdewariwastaken@gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/kinshuk-dewari">LinkedIn</a>!</i>
-</p>
