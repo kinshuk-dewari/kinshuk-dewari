@@ -63,11 +63,9 @@ Full-stack engineer experienced in building scalable, high-performance applicati
 
 ### Currently building
 
-#### [Agent X](https://github.com/kinshuk-dewari/agent_orchestrator)
-`Turborepo` `LLM` `Next.js` `Prisma` `WebSockets` `BullMQ/Redis` `Docker`
+#### [AgentX](https://github.com/kinshuk-dewari/agent_orchestrator)  |  `Turborepo` `LLM` `Next.js` `Prisma` `WebSockets` `BullMQ/Redis` `Docker`
 A multi-agent autonomous system with a central orchestrator delegating tasks across specialized Search, Write, Review, and GitHub agents. Built on a production-grade BullMQ/Redis job queue and state machine, with Docker-based sandboxed execution (via dockerode) for safely running agent-generated code, plus real-time task streaming via Socket.io.
 
-#### [My Wallet](https://github.com/kinshuk-dewari/My-Wallet)
-`Turborepo` `Next.js` `PostgreSQL` `Prisma` `Recoil`
-A secure, scalable e-wallet web application with JWT authentication and bcrypt-encrypted transactions. Includes a merchant dashboard for generating monthly/annual financial reports, improving transaction analysis efficiency by 75%.
+#### [AgentX CLI](https://github.com/kinshuk-dewari/agentX-cli)  |  `Turborepo` `Typescript` `Prisma` `Sandbox` `BullMQ/Redis`
+A simple CLI based agent orchestrator, with simple read, write and review commands all within an protected sandbox. Using BULLMQ for better task management and task execution. 
 
